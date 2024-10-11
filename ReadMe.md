@@ -13,7 +13,7 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=bjmmtin&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![Michel's current streak](https://streak-stats.demolab.com/?user=bjmmtin&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+<!-- [![Michel's current streak](https://streak-stats.demolab.com/?user=bjmmtin&count_private=true&theme=blue-green&title_color=00b3ff)](#) -->
 
 [![Michel's current profile trophy](https://github-profile-trophy.vercel.app/?username=bjmmtin)](#)
 
